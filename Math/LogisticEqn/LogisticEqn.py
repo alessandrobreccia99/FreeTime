@@ -6,7 +6,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from array import array
 
-dif=1.0
+dif=1.1
 r=0.0
 
 p=[]
